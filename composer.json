@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "vensonk\\pace\\": ""
+            "dosamigos\\pace\\": ""
         }
     },
     "extra": {
